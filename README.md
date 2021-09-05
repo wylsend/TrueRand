@@ -1,4 +1,4 @@
 # TrueRand
-Функция, которая выдаёт случайные числа любого диапазона до n.
-Вход: верхняя граница генерации чисел.
-Возвращает случайное число в диапазоне от 0 до n.
+A function that generates random numbers of any range up to n.
+Input: the upper limit of the number generation.
+Returns a random number in the range 0 to n.
